@@ -1,4 +1,4 @@
 {
-	"creatures.hota.cove.seadog.bonus.accurateShotFullRange" : "{Full Range Accurate Shot}\nHas a 3% chance to instantly kill a single living creature",
-	"creatures.hota.cove.seadog.bonus.accurateShotHalfRange" : "{Half Range Accurate Shot}\nHas a 2% chance to instantly kill a single living creature"
+	"creatures.hota.cove.seadog.bonus.accurateShotFullRange" : "{Влучний Постріл}\nМає 3% шанс моментально вбити істоту в загоні, якщо ціль в зоні повної шкоди",
+	"creatures.hota.cove.seadog.bonus.accurateShotHalfRange" : "{Влучний Постріл}\nМає 2% шанс моментально вбити істоту в загоні, якщо ціль не в зоні повної шкоди"
 }
